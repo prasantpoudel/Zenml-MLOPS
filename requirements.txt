@@ -1,0 +1,4 @@
+zenml["server"]
+sckit-learn
+pandas 
+numpy
